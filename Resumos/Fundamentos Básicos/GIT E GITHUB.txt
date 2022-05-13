@@ -1,0 +1,40 @@
+COMANDOS BÁSICOS CMD
+
+/mkdir ou md nome da pasta(criar pasta)
+
+/dir (mostra as pastas e arquivos presentes)
+
+/cd nome da pasta (entrar na pasta)
+
+/cd.. (retroceder pasta)
+
+cd / (pra base da pasta C)
+
+/del nome da pasta (apagar conteudo dentro da pasta)
+
+/rmdir nome da pasta(apagar a pasta toda)
+
+/cls(limpar cmd)
+
+CONFIGURAR CHAVE SSH
+
+[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+COMANDOS BASICOS GIT
+
+git init : iniciar o git na pasta
+
+git config —global [user.](http://user.name)email “email”: configurar o git
+
+git config —global [user.name](http://user.name) “name”: configurar o git
+
+git add * : adiciona todos os arquivos modificados para o commit
+
+git pull: receber a versão dos arquivos do repositório
+
+git push: enviar os commits para o repositório
+
+git commit -m “descrição do commit”: formata o commit
+
+Ao receber um merge: Dar git pull, depois resolver os conflitos manualmente no arquivo e realizar o procedimento padrão pra envio.
+

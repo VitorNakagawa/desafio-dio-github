@@ -1,0 +1,83 @@
+BASEADO EM 4 PILARES: DECOMPOSIÇÃO, RECONHECIMENTO DE PADRÕES, ABSTRAÇÃO E ALGORITMO, SEM ESQUECER DO APERFEIÇOAMENTO.
+
+DECOMPOSIÇÃO
+
+“Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis.”
+
+Como decompor?:
+
+Identificar ou coletar dados.
+
+Agregar os dados.
+
+Funcionalidade.
+
+Estratégia: 
+
+Análise→ Processo de quebrar e determinar partes menores e gerenciáveis e analisar, examinar tais problemas.
+
+Síntese→ Combinar os elementos recompondo o problema original de maneira coerente, com maior sentido.
+
+Ordem de execução:
+
+Sequencial→ Tarefas desenvolvidas em uma ordem qualquer, com o detalhe de que possam haver tarefas que dependam de outras.
+
+Paralelo→ Tarefas desenvolvidas paralelamente e posteriormente reunidas de maneira que façam sentido para a resolução do problema.
+
+RECONHECIMENTO DE PADRÕES
+
+“Generalizar, com objetivo de obter resolução para problemas diferentes.”
+
+Extrair características a fim de classificar os dados.
+
+Representar atributos:
+
+Para que a máquina consiga aprender por meio de um conceito associado aos objetos
+
+Armazenar os dados:
+
+Para consultas posteriores a fim de determinar um novo objeto e em qual categoria se encaixa.
+
+Regras de decisão:
+
+Comparar novos objetos com outros já armazenas anteriormente a fim de tomar decisões e classificá-las.
+
+ABSTRAÇÃO
+
+“Processo intelectual de isolamento de um objeto da realidade.
+
+Abstrair:
+
+Observar, um ou mais elementos, avaliando características ou propriedades em separado.
+
+Abstração:
+
+Processo intelectual de isolamento de um objeto da realidade.
+
+Generalização:
+
+Tornar geral, mais amplo, extenso.
+Algoritmo
+
+“Processo de resolução de problemas “step by step” utilizando instruções interpretáveis por humanos e máquinas.
+
+O que precisa ser feito? Qual a ordem de execução? → INSTRUÇÕES.
+
+Análise:
+
+Estudo e definição dos dados de entrada e saída.
+
+Algoritmo: 
+
+Descreve o problema por meio de ferramentas narrativas. fluxograma ou pseudocódigo.
+
+Codificação:
+
+O algoritmo é codificado de acordo com a linguagem de programação escolhida.
+
+- Compreensão do problema
+- Definição dados de entrada
+- Definir Processamento
+- Definir Dados de saída
+- Utilizar um método de construção
+- Teste e diagnóstico.
